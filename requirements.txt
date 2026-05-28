@@ -1,0 +1,8 @@
+# Dependencies for Python Language Translator Application
+googletrans==4.0.0-rc1
+pyttsx3
+SpeechRecognition
+gTTS
+pygame
+PyAudio
+legacy-cgi
