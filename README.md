@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LingoFlux Translator
 
 A feature-rich, production-ready desktop Translation Application built with Python using `Tkinter` (with a responsive, dark/light design system), wrapping `googletrans` for translations, `speech_recognition` for microphone voice input, and a combination of `gTTS` and `pyttsx3` for premium online & offline text-to-speech feedback.
@@ -97,3 +98,7 @@ The app includes various keyboard shortcuts for speed and productivity:
 - **Connection Drops**: If the translator cannot reach the server, the status bar will turn red indicating network failure. The interface will not freeze, and it lets you retry cleanly.
 - **Audio Device Errors**: If no mic is connected, the voice button notifies you via status with a warning and prevents crashing.
 - **Speech Engine Lock**: Restores system resources gracefully if window is closed during audio playback.
+=======
+# Language-translator-
+this project is made in python language using googletrans &amp; tkinter 
+>>>>>>> 7f1c7b2bc5f152705edfdf1c595b259e73da32ba
